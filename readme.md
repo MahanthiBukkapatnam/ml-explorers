@@ -7,7 +7,7 @@
   * The way you model for Linear Modeling/Extended Linear Modeling/Stochastic Gradient Descent/SVM is similar.
   * Once you fit for a model the approach is the same for all other models.
   * Uploaded the Jupyter notebooks for Chapter 3-9 to GitHub
-  * Talked about NPTEL Special Series course 
+  * Talked about NPTEL Special Series course [Special Series on Data Science](https://nptel.ac.in/courses/128/106/128106002/)
 * Pani
   * Install Jupyter Notebooks
   * Derek Banas
