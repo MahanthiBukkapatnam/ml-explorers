@@ -11,10 +11,10 @@
 * Pani
   * Install Jupyter Notebooks
   * Derek Banas
-    * in detail watched/did the problems from first 5 videos
+   * in detail watched/did the problems from first 5 videos
   * Tutorials Point
-    * Experimented on Chapter 1 
-    * Experimented on Chapter 2
+   * Experimented on Chapter 1 
+   * Experimented on Chapter 2
   * GitHub - Created Repository for Data Science projects
 * Vinay
   * MathTutorDVD.com is interesting
