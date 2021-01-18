@@ -18,10 +18,10 @@
 # 1/3/2020
 * Attended: Mahanthi/Pani/Vinay/Sid
 * Mahanthi
-** Suggested Derek Banas Linear Algebra Playlist
+  * Suggested Derek Banas Linear Algebra Playlist
 * Pani
-** Suggested TutorialsPoint SKL tutorial
+  * Suggested TutorialsPoint SKL tutorial
 * Vinay
 * Sid
- * cannot be too hands-on initially
+  * cannot be too hands-on initially
   
