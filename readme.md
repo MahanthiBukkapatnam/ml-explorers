@@ -13,12 +13,15 @@
   * Pani
   * Vinay
   * Sid
-    * will install Anaconda
+   * will install Anaconda
 
 # 1/3/2020
 * Attended: Mahanthi/Pani/Vinay/Sid
-  * Mahanthi
-  * Pani
-  * Vinay
-  * Sudha
-
+* Mahanthi
+ * Suggested Derek Banas Linear Algebra Playlist
+* Pani
+ * Suggested TutorialsPoint SKL tutorial
+* Vinay
+* Sid
+ * cannot be too hands-on initially
+  
