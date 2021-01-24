@@ -1,5 +1,28 @@
 # Machine Learning - Explorers 
 
+# 1/24/2021
+* Attended: Mahanthi/Vinay/Pani/Sudha
+* Sudha
+  * Tutorials Point - Chapter 2 - implemented the samples in Python
+  * Linear Algebra - Derek Banas - 3rd 
+  * Iris Datasets - What is it?
+* Pani
+  * Linear Algebra - Derek Banas - Did not do much
+  * Tutorials Point - Implemented all the chapters
+  * VS Code...Formatting the Jupyter Notebook - had issues
+  * https://www.hebergementwebs.com/machine-learning-with-python/machine-learning-with-python-quick-guide
+  * Algorithms: https://www.hebergementwebs.com/article/machine-learning-with-python
+* Vinay
+  * Nothing much
+  * Will present the project from last semester
+* Mahanthi
+  * Linear Regression - I want to understand it 
+  * Bayes Theorem - Understood
+  * KDnuggets
+  * Kaggle
+  * https://machinelearningmastery.com/
+  * Data Sets
+
 # 1/17/2020
 * Attended: Mahanthi/Vinay/Pani/Sudha
 * Mahanthi
