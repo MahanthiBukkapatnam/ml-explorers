@@ -14,7 +14,7 @@
   * Algorithms: https://www.hebergementwebs.com/article/machine-learning-with-python
 * Vinay
   * Nothing much
-  * Will present the project from last semester
+  * Presented the project from the Python course he took last year - spent 30 mins explaining that
 * Mahanthi
   * Linear Regression - I want to understand it 
   * Bayes Theorem - Understood
