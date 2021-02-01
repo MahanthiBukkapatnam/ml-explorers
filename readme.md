@@ -1,5 +1,38 @@
 # Machine Learning - Explorers 
 
+# 1/31/2021
+* Attended: Mahanthi/Vinay/Pani/Sudha
+* Pani
+  * Watched the following Derek Banas videos
+  * Unit Vectors
+  * Standard Basis Vectors
+  * Subspaces 
+  * Dot Product
+  * Schwarz Inequality 
+  * Vector Triangle Inequality 
+  * Cross product and Right hand rule
+* Sudha
+  * No Updates
+* Mahanthi
+  * Started "Advance Analytics" course
+  * Normal Distribution
+   * Explained Normal Distribution
+   * Explained Normalization of a Normal Distribution
+   * Explained what is a Standard Deviation
+* Vinay
+  * Started the "Data Science Course"
+  * 1st class - Intro to Data Science
+  * Data Preparation
+   * Cleaning/Transformation - 80% - 90% 
+   * Went through some slides
+   * Lending Club Case Study
+   * Data Transformation
+    * One hit encoding
+    * Categorical Variables
+     * Examples: Seasons, Risk: High/Medium/Low
+     * Ordinal Variables
+    * Log Transformation
+
 # 1/24/2021
 * Attended: Mahanthi/Vinay/Pani/Sudha
 * Sudha
