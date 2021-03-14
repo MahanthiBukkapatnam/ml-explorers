@@ -9,6 +9,7 @@
 * Mahanthi
   * I submitted my homework for my course. Linear Programming (Advanced Analytics).
   * I went through the Linear Programming slides to this group.
+  * I explained the product rule for the differentiaion.
 
 # 1/31/2021
 * Attended: Mahanthi/Vinay/Pani/Sudha
