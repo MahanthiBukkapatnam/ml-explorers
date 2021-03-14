@@ -1,5 +1,14 @@
 # Machine Learning - Explorers 
 
+# 3/14/2021
+* Attended: Mahanthi/Vinay/Pani/
+* Pani
+  * Watched 1st video of Deep Learning (90%)
+* Vinay
+  * Cross Validation/Modeling 
+* Mahanthi
+  * I submitted my homework for my course. Linear Programming (Advanced Analytics).
+
 # 1/31/2021
 * Attended: Mahanthi/Vinay/Pani/Sudha
 * Pani
