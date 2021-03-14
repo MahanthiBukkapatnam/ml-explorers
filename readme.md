@@ -5,7 +5,8 @@
 * Pani
   * Watched 1st video of Deep Learning (90%)
 * Vinay
-  * Cross Validation/Modeling 
+  * Cross Validation/Modeling as part of the home work
+  * Vinay explained Cross Validation to the group
 * Mahanthi
   * I submitted my homework for my course. Linear Programming (Advanced Analytics).
   * I went through the Linear Programming slides to this group.
